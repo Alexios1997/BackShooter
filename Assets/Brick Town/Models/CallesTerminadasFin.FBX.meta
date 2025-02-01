@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 08190218d37b40549b9cbc1712a4522f
+timeCreated: 1458674126
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AndenAncho1Calle(3)
+    100002: AndenAncho1Calle(3) 1
+    100004: AndenDelgado1Calle(3)
+    100006: AndenDelgado1Calle(3)(+)
+    100008: Calle(3)001
+    100010: CalleCuadrada
+    100012: CalleCuadradaAnden1Ancho
+    100014: CalleCuadradaAnden1Delgado
+    100016: CalleCuadradaAndenAncho
+    100018: CalleCuadradaAndenDelgado
+    100020: CalleDerecha
+    100022: CalleDerecha001
+    100024: CalleDerechaAndenAncho
+    100026: CalleDerechaAndenAncho002
+    100028: CalleDerechaAndenAncho1
+    100030: CalleDerechaAndenDelgado
+    100032: CalleDerechaAndenDelgado002
+    100034: CalleDerechaAndenDelgado1
+    100036: CalleEnCruz
+    100038: CalleIzquierdaAndenAncho
+    100040: CalleIzquierdaAndenAncho002
+    100042: CalleIzquierdaAndenDelgado
+    100044: CalleLarga
+    100046: CalleLargaAndenAncho1
+    100048: CalleLargaAndenDelgado1
+    100050: //RootNode
+    400000: AndenAncho1Calle(3)
+    400002: AndenAncho1Calle(3) 1
+    400004: AndenDelgado1Calle(3)
+    400006: AndenDelgado1Calle(3)(+)
+    400008: Calle(3)001
+    400010: CalleCuadrada
+    400012: CalleCuadradaAnden1Ancho
+    400014: CalleCuadradaAnden1Delgado
+    400016: CalleCuadradaAndenAncho
+    400018: CalleCuadradaAndenDelgado
+    400020: CalleDerecha
+    400022: CalleDerecha001
+    400024: CalleDerechaAndenAncho
+    400026: CalleDerechaAndenAncho002
+    400028: CalleDerechaAndenAncho1
+    400030: CalleDerechaAndenDelgado
+    400032: CalleDerechaAndenDelgado002
+    400034: CalleDerechaAndenDelgado1
+    400036: CalleEnCruz
+    400038: CalleIzquierdaAndenAncho
+    400040: CalleIzquierdaAndenAncho002
+    400042: CalleIzquierdaAndenDelgado
+    400044: CalleLarga
+    400046: CalleLargaAndenAncho1
+    400048: CalleLargaAndenDelgado1
+    400050: //RootNode
+    2300000: AndenAncho1Calle(3)
+    2300002: AndenAncho1Calle(3) 1
+    2300004: AndenDelgado1Calle(3)
+    2300006: AndenDelgado1Calle(3)(+)
+    2300008: Calle(3)001
+    2300010: CalleCuadrada
+    2300012: CalleCuadradaAnden1Ancho
+    2300014: CalleCuadradaAnden1Delgado
+    2300016: CalleCuadradaAndenAncho
+    2300018: CalleCuadradaAndenDelgado
+    2300020: CalleDerecha
+    2300022: CalleDerecha001
+    2300024: CalleDerechaAndenAncho
+    2300026: CalleDerechaAndenAncho002
+    2300028: CalleDerechaAndenAncho1
+    2300030: CalleDerechaAndenDelgado
+    2300032: CalleDerechaAndenDelgado002
+    2300034: CalleDerechaAndenDelgado1
+    2300036: CalleEnCruz
+    2300038: CalleIzquierdaAndenAncho
+    2300040: CalleIzquierdaAndenDelgado
+    2300042: CalleLarga
+    2300044: CalleLargaAndenAncho1
+    2300046: CalleLargaAndenDelgado1
+    3300000: AndenAncho1Calle(3)
+    3300002: AndenAncho1Calle(3) 1
+    3300004: AndenDelgado1Calle(3)
+    3300006: AndenDelgado1Calle(3)(+)
+    3300008: Calle(3)001
+    3300010: CalleCuadrada
+    3300012: CalleCuadradaAnden1Ancho
+    3300014: CalleCuadradaAnden1Delgado
+    3300016: CalleCuadradaAndenAncho
+    3300018: CalleCuadradaAndenDelgado
+    3300020: CalleDerecha
+    3300022: CalleDerecha001
+    3300024: CalleDerechaAndenAncho
+    3300026: CalleDerechaAndenAncho002
+    3300028: CalleDerechaAndenAncho1
+    3300030: CalleDerechaAndenDelgado
+    3300032: CalleDerechaAndenDelgado002
+    3300034: CalleDerechaAndenDelgado1
+    3300036: CalleEnCruz
+    3300038: CalleIzquierdaAndenAncho
+    3300040: CalleIzquierdaAndenDelgado
+    3300042: CalleLarga
+    3300044: CalleLargaAndenAncho1
+    3300046: CalleLargaAndenDelgado1
+    4300000: CalleCuadrada
+    4300002: CalleDerecha
+    4300004: CalleLarga
+    4300006: AndenDelgado1Calle(3)(+)
+    4300008: AndenDelgado1Calle(3)
+    4300010: AndenAncho1Calle(3)
+    4300012: AndenAncho1Calle(3)
+    4300014: CalleLargaAndenDelgado1
+    4300016: CalleLargaAndenAncho1
+    4300018: CalleEnCruz
+    4300020: Calle(3)001
+    4300022: CalleDerechaAndenDelgado1
+    4300024: CalleDerechaAndenAncho1
+    4300026: CalleDerechaAndenDelgado
+    4300028: CalleDerechaAndenAncho
+    4300030: CalleIzquierdaAndenAncho
+    4300032: CalleIzquierdaAndenDelgado
+    4300034: CalleDerecha001
+    4300036: CalleCuadradaAnden1Delgado
+    4300038: CalleCuadradaAnden1Ancho
+    4300040: CalleCuadradaAndenDelgado
+    4300042: CalleCuadradaAndenAncho
+    4300044: CalleDerechaAndenAncho002
+    4300046: CalleDerechaAndenDelgado002
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

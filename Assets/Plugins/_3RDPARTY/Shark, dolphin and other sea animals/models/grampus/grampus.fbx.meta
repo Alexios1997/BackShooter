@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 679346cd0144e8540b691b8274fdb258
+timeCreated: 1494237237
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: b1
+    100002: b2
+    100004: b2.001
+    100006: b3
+    100008: b3.001
+    100010: b4
+    100012: Bone
+    100014: Bone.010
+    100016: Bone.011
+    100018: Bone.011_end
+    100020: //RootNode
+    100022: grampus
+    100024: grampus_rig
+    100026: h
+    100028: h1
+    100030: h1_end
+    100032: h2
+    100034: h2_end
+    100036: p
+    100038: p.L
+    100040: p.L.001
+    100042: p.L.001_end
+    100044: p.R
+    100046: p.R.001
+    100048: p.R.001_end
+    100050: p1
+    100052: p1.L
+    100054: p1.R
+    100056: p2.L
+    100058: p2.L_end
+    100060: p2.R
+    100062: p2.R_end
+    100064: p3
+    100066: p3_end
+    400000: b1
+    400002: b2
+    400004: b2.001
+    400006: b3
+    400008: b3.001
+    400010: b4
+    400012: Bone
+    400014: Bone.010
+    400016: Bone.011
+    400018: Bone.011_end
+    400020: //RootNode
+    400022: grampus
+    400024: grampus_rig
+    400026: h
+    400028: h1
+    400030: h1_end
+    400032: h2
+    400034: h2_end
+    400036: p
+    400038: p.L
+    400040: p.L.001
+    400042: p.L.001_end
+    400044: p.R
+    400046: p.R.001
+    400048: p.R.001_end
+    400050: p1
+    400052: p1.L
+    400054: p1.R
+    400056: p2.L
+    400058: p2.L_end
+    400060: p2.R
+    400062: p2.R_end
+    400064: p3
+    400066: p3_end
+    4300000: grampus
+    7400000: attack
+    7400002: damage_down
+    7400004: damage_left
+    7400006: damage_right
+    7400008: damage_up
+    7400010: dead
+    7400012: dive
+    7400014: idle
+    7400016: jump
+    7400018: swim
+    7400020: swim_left
+    7400022: swim_right
+    7400024: swim_speed
+    9500000: //RootNode
+    13700000: grampus
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

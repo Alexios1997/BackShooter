@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: ec8530fb7807b7843930897f1c6fed73
+timeCreated: 1460757969
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anden(T)
+    100002: Anden(T1)
+    100004: Anden1CalleCruz
+    100006: Anden1CalleCuadrado
+    100008: Anden1CalleCuadrado 1
+    100010: 'Anden1CalleRegtangular '
+    100012: Anden2CalleCuadrado
+    100014: AndenCalleCruz
+    100016: AndenCalleCuadrado
+    100018: 'AndenCalleRegtangular '
+    100020: AndenExterno1CalleCurva1
+    100022: 'AndenExterno1CalleCurva2 '
+    100024: AndenExternoCalleCurva1
+    100026: 'AndenExternoCalleCurva2 '
+    100028: AndenInterno1CalleCurva1
+    100030: 'AndenInterno1CalleCurva2 '
+    100032: AndenInternoCalleCurva1
+    100034: 'AndenInternoCalleCurva2 '
+    100036: CalleCruz
+    100038: CalleCuadrado
+    100040: CalleCurva1
+    100042: 'CalleCurva2 '
+    100044: CalleEn(T)
+    100046: 'CalleRegtangular '
+    100048: //RootNode
+    400000: Anden(T)
+    400002: Anden(T1)
+    400004: Anden1CalleCruz
+    400006: Anden1CalleCuadrado
+    400008: Anden1CalleCuadrado 1
+    400010: 'Anden1CalleRegtangular '
+    400012: Anden2CalleCuadrado
+    400014: AndenCalleCruz
+    400016: AndenCalleCuadrado
+    400018: 'AndenCalleRegtangular '
+    400020: AndenExterno1CalleCurva1
+    400022: 'AndenExterno1CalleCurva2 '
+    400024: AndenExternoCalleCurva1
+    400026: 'AndenExternoCalleCurva2 '
+    400028: AndenInterno1CalleCurva1
+    400030: 'AndenInterno1CalleCurva2 '
+    400032: AndenInternoCalleCurva1
+    400034: 'AndenInternoCalleCurva2 '
+    400036: CalleCruz
+    400038: CalleCuadrado
+    400040: CalleCurva1
+    400042: 'CalleCurva2 '
+    400044: CalleEn(T)
+    400046: 'CalleRegtangular '
+    400048: //RootNode
+    2300000: Anden(T)
+    2300002: Anden(T1)
+    2300004: Anden1CalleCruz
+    2300006: Anden1CalleCuadrado
+    2300008: Anden1CalleCuadrado 1
+    2300010: 'Anden1CalleRegtangular '
+    2300012: Anden2CalleCuadrado
+    2300014: AndenCalleCruz
+    2300016: AndenCalleCuadrado
+    2300018: 'AndenCalleRegtangular '
+    2300020: AndenExterno1CalleCurva1
+    2300022: 'AndenExterno1CalleCurva2 '
+    2300024: AndenExternoCalleCurva1
+    2300026: 'AndenExternoCalleCurva2 '
+    2300028: AndenInterno1CalleCurva1
+    2300030: 'AndenInterno1CalleCurva2 '
+    2300032: AndenInternoCalleCurva1
+    2300034: 'AndenInternoCalleCurva2 '
+    2300036: CalleCruz
+    2300038: CalleCuadrado
+    2300040: CalleCurva1
+    2300042: 'CalleCurva2 '
+    2300044: CalleEn(T)
+    2300046: 'CalleRegtangular '
+    3300000: Anden(T)
+    3300002: Anden(T1)
+    3300004: Anden1CalleCruz
+    3300006: Anden1CalleCuadrado
+    3300008: Anden1CalleCuadrado 1
+    3300010: 'Anden1CalleRegtangular '
+    3300012: Anden2CalleCuadrado
+    3300014: AndenCalleCruz
+    3300016: AndenCalleCuadrado
+    3300018: 'AndenCalleRegtangular '
+    3300020: AndenExterno1CalleCurva1
+    3300022: 'AndenExterno1CalleCurva2 '
+    3300024: AndenExternoCalleCurva1
+    3300026: 'AndenExternoCalleCurva2 '
+    3300028: AndenInterno1CalleCurva1
+    3300030: 'AndenInterno1CalleCurva2 '
+    3300032: AndenInternoCalleCurva1
+    3300034: 'AndenInternoCalleCurva2 '
+    3300036: CalleCruz
+    3300038: CalleCuadrado
+    3300040: CalleCurva1
+    3300042: 'CalleCurva2 '
+    3300044: CalleEn(T)
+    3300046: 'CalleRegtangular '
+    4300000: 'AndenInterno1CalleCurva2 '
+    4300002: 'AndenInternoCalleCurva2 '
+    4300004: 'CalleCurva2 '
+    4300006: 'AndenExternoCalleCurva2 '
+    4300008: 'AndenExterno1CalleCurva2 '
+    4300010: Anden(T)
+    4300012: Anden(T1)
+    4300014: CalleCruz
+    4300016: Anden1CalleCruz
+    4300018: AndenCalleCruz
+    4300020: Anden1CalleCuadrado
+    4300022: CalleCuadrado
+    4300024: AndenCalleCuadrado
+    4300026: Anden1CalleCuadrado
+    4300028: Anden2CalleCuadrado
+    4300030: 'CalleRegtangular '
+    4300032: 'AndenCalleRegtangular '
+    4300034: 'Anden1CalleRegtangular '
+    4300036: AndenInterno1CalleCurva1
+    4300038: AndenInternoCalleCurva1
+    4300040: CalleCurva1
+    4300042: AndenExternoCalleCurva1
+    4300044: AndenExterno1CalleCurva1
+    4300046: CalleEn(T)
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

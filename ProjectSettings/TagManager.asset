@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - EndZone
+  - Trampoline
+  - Water
+  - Buoy
+  - Bark
+  - Leaf
+  - Bridge
+  - Bounds
+  - FinishLine
+  - CubeSpawner
+  - Bullet
+  - FxTemporaire
+  - Enemy
+  - Gate
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Collectable
+  - Bounds
+  - Input
+  - 
+  - Leaf
+  - Bark
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WaterParticle
+    uniqueID: 966210331
+    locked: 0

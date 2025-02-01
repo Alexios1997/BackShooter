@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 8ba461fc14bfb6541bd8b7b60f1197a1
+timeCreated: 1461613752
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1BloqueCompuesto
+    100002: 1BloqueSimple
+    100004: 2BloquesCompuesto
+    100006: 2BloquesSimples
+    100008: 3BloquesCompuesto
+    100010: 3BloquesSimple
+    100012: //RootNode
+    100014: MuroGrandeCompuesto
+    100016: MuroGrandeSimple
+    100018: MuroMedianoCompuesto
+    100020: MuroMedianoSimple
+    100022: "MuroPeque\xF1oCompuesto"
+    100024: "MuroPeque\xF1oSimple"
+    100026: ParedGrandeCompuesta
+    100028: ParedGrandeSimple
+    400000: 1BloqueCompuesto
+    400002: 1BloqueSimple
+    400004: 2BloquesCompuesto
+    400006: 2BloquesSimples
+    400008: 3BloquesCompuesto
+    400010: 3BloquesSimple
+    400012: //RootNode
+    400014: MuroGrandeCompuesto
+    400016: MuroGrandeSimple
+    400018: MuroMedianoCompuesto
+    400020: MuroMedianoSimple
+    400022: "MuroPeque\xF1oCompuesto"
+    400024: "MuroPeque\xF1oSimple"
+    400026: ParedGrandeCompuesta
+    400028: ParedGrandeSimple
+    2300000: 1BloqueCompuesto
+    2300002: 1BloqueSimple
+    2300004: 2BloquesCompuesto
+    2300006: 2BloquesSimples
+    2300008: 3BloquesCompuesto
+    2300010: 3BloquesSimple
+    2300012: MuroGrandeCompuesto
+    2300014: MuroGrandeSimple
+    2300016: MuroMedianoCompuesto
+    2300018: MuroMedianoSimple
+    2300020: "MuroPeque\xF1oCompuesto"
+    2300022: "MuroPeque\xF1oSimple"
+    2300024: ParedGrandeCompuesta
+    2300026: ParedGrandeSimple
+    3300000: 1BloqueCompuesto
+    3300002: 1BloqueSimple
+    3300004: 2BloquesCompuesto
+    3300006: 2BloquesSimples
+    3300008: 3BloquesCompuesto
+    3300010: 3BloquesSimple
+    3300012: MuroGrandeCompuesto
+    3300014: MuroGrandeSimple
+    3300016: MuroMedianoCompuesto
+    3300018: MuroMedianoSimple
+    3300020: "MuroPeque\xF1oCompuesto"
+    3300022: "MuroPeque\xF1oSimple"
+    3300024: ParedGrandeCompuesta
+    3300026: ParedGrandeSimple
+    4300000: ParedGrandeCompuesta
+    4300002: MuroGrandeSimple
+    4300004: MuroGrandeCompuesto
+    4300006: MuroMedianoCompuesto
+    4300008: MuroMedianoSimple
+    4300010: 1BloqueCompuesto
+    4300012: 2BloquesCompuesto
+    4300014: 3BloquesCompuesto
+    4300016: 3BloquesSimple
+    4300018: "MuroPeque\xF1oCompuesto"
+    4300020: "MuroPeque\xF1oSimple"
+    4300022: 1BloqueSimple
+    4300024: 2BloquesSimples
+    4300026: ParedGrandeSimple
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
