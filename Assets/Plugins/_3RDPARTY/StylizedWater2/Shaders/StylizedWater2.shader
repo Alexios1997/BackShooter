@@ -252,8 +252,8 @@ Shader "Universal Render Pipeline/FX/Stylized Water 2"
 			#include "Libraries/Waves.hlsl"
 			#include "Libraries/Lighting.hlsl"
 			#ifdef UNDERWATER_ENABLED
-			#include "Underwater/UnderwaterFog.hlsl"
-			#include "Underwater/UnderwaterShading.hlsl"
+			//#include "Underwater/UnderwaterFog.hlsl"
+			//#include "Underwater/UnderwaterShading.hlsl"
 			#endif
 			#include "Libraries/Features.hlsl"
 			#include "Libraries/Caustics.hlsl"
